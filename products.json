@@ -1,0 +1,13 @@
+[
+  {
+    "categoria": "Motos",
+    "clave": "759102928749",
+    "descripcion": "",
+    "id": 1,
+    "imagen": "images/prod_1.jpg",
+    "nombre": "Pieza Motoneta Ray Z 125",
+    "precio": 45000.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  }
+]
